@@ -4,13 +4,10 @@ This is a command line interface to show the "tree" file structure of a given di
 
 ## Setup
 
-Ensure python 3.9 is installed. Set up a venv within this directory.
+Ensure python 3.9 is installed. Navigate to this directory.
 
 ```bash
 cd Tree-CLI-Clone/
-python -m venv ./venv
-source venv/bin/activate
-(venv) $
 ```
 
 Run tree with a directory path as an argument. The default input directory is the current directory.
